@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Bitte Wort eingeben" << endl;
+    cout << "Bitte ein Wort eingeben:" << endl;
 
     string word= "";
     
